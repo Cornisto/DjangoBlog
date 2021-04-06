@@ -67,3 +67,11 @@ E
 djangoProject/wsgi.py,f\a\fa9330d61180417d799cd9051a62c8e359686909
 M
 blog/templates/blog/base.html,7\8\782c683344f48c6345ca37557b4a8afa4907e4f1
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+\
+,blog/templates/blog/post_confirm_delete.html,5\2\52fe2e09da354538a8bfaaaa4c20d003e5e15041
+R
+"blog/templates/blog/post_form.html,c\2\c267d63c8a3e4ed1868049795af4e7a91a112c80
+T
+$blog/templates/blog/post_detail.html,a\4\a42c9bd94aec628bf5e4f4ab0bd3c3bcc3bbbe97
