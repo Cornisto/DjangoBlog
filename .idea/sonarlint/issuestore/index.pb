@@ -75,3 +75,5 @@ R
 "blog/templates/blog/post_form.html,c\2\c267d63c8a3e4ed1868049795af4e7a91a112c80
 T
 $blog/templates/blog/post_detail.html,a\4\a42c9bd94aec628bf5e4f4ab0bd3c3bcc3bbbe97
+S
+#blog/templates/blog/user_posts.html,2\8\287fdb9de556ed0fc441da5fa9f15dc06e76f670
